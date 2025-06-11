@@ -1,0 +1,16 @@
+.header a {
+  color: white;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.header {
+  background-color: blue;
+  padding: 1rem;
+  color: white;
+  text-align: center;
+}
